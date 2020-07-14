@@ -1,4 +1,4 @@
-,0
+palabra,frecuencia
 dijo,1175
 oliveira,909
 si,609
@@ -68,8 +68,8 @@ cama,117
 aire,114
 luz,113
 che,113
-tres,112
 hace,112
+tres,111
 parte,110
 toda,110
 hora,109
@@ -82,9 +82,9 @@ cualquier,103
 fondo,103
 agua,102
 nunca,101
-fin,100
 gran,100
 pieza,100
+fin,99
 palabras,98
 todavía,98
 manos,98
@@ -136,7 +136,6 @@ tarde,73
 voz,73
 sabe,72
 tener,71
-palabra,69
 mate,69
 entrar,68
 abajo,68
@@ -144,6 +143,7 @@ negro,68
 cinco,68
 primera,68
 miraba,68
+palabra,68
 verdad,67
 suelo,67
 da,66
@@ -212,7 +212,6 @@ puedo,51
 sentía,51
 dar,51
 dicho,51
-segundo,50
 mirar,50
 mirá,50
 fácil,50
@@ -221,15 +220,16 @@ frente,50
 posible,49
 pasar,49
 seguir,49
+segundo,49
 llama,49
 paso,49
-pie,48
 orden,48
 empezó,48
 único,48
 puesto,48
 podría,48
 frío,48
+pie,47
 cerca,47
 verde,47
 grandes,47
@@ -343,7 +343,6 @@ acción,35
 primer,35
 diez,35
 rayuela,35
-lector,34
 río,34
 casas,34
 hotel,34
@@ -371,6 +370,7 @@ montevideo,33
 además,33
 volver,33
 yerba,33
+lector,33
 alto,32
 color,32
 seis,32
@@ -398,7 +398,6 @@ problema,31
 amigo,31
 the,31
 valentin,31
-leer,30
 subir,30
 venía,30
 decirlo,30
@@ -425,6 +424,7 @@ dejar,29
 menor,29
 derecho,29
 hermano,29
+leer,29
 jamás,29
 buen,29
 frase,29
@@ -617,7 +617,6 @@ cuya,22
 culpa,22
 doctor,22
 soga,22
-sigue,21
 encuentro,21
 largo,21
 caballo,21
